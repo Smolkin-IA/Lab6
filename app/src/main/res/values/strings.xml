@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 6</string>
+    <string-array name="categotyNames">
+        <item>Все категории</item>
+        <item>Еда</item>
+        <item>Одежда</item>
+        <item>Игрушки</item>
+    </string-array>
+</resources>
